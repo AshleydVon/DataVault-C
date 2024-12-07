@@ -1,0 +1,3 @@
+
+echo "data/*" >> .gitignore
+echo "!data/.gitkeep" >> .gitignore
